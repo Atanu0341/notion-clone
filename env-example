@@ -1,0 +1,7 @@
+# Deployment used by `npx convex dev`
+CONVEX_DEPLOYMENT=dev: your-convex-deployment-key
+
+NEXT_PUBLIC_CONVEX_URL= your-next-public-convex-url
+
+NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY= your-next-public-clerk-publishable-key
+CLERK_SECRET_KEY= your-clerk-secret-key
